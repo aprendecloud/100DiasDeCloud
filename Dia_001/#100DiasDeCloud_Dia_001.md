@@ -41,8 +41,13 @@ Repositorio creado y primer día documentado. ¡Vamos con todo!
 
 ---
 
-## 🤝 Conecta conmigo
+## 🤝 Conecta con nosotros
+Nicole Paine
+- [NicolePaine.com](https://www.nicolepaine.com)
+- [LinkedIn](https://www.linkedin.com/in/nicolepainem)
+- [GitHub](https://github.com/nicolepainem/)
 
+Nicolás Lecaros
 - [NicolasLecaros.com](https://www.nicolaslecaros.com)
 - [LinkedIn](https://www.linkedin.com/in/nicolaslecaros)
 - [GitHub](https://github.com/nicolaslecaros/)

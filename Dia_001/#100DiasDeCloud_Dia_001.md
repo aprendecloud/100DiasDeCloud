@@ -51,7 +51,7 @@ Repositorio creado y primer día documentado. ¡Vamos con todo!
 Nicole Paine
 - [NicolePaine.com](https://www.nicolepaine.com)
 - [LinkedIn](https://www.linkedin.com/in/nicolepainem)
-- [GitHub](https://github.com/nicolepainem/)
+- [GitHub](https://github.com/nicolepaine/)
 
 Nicolás Lecaros
 - [NicolasLecaros.com](https://www.nicolaslecaros.com)

@@ -1,4 +1,4 @@
-# 📅 Día 002 – Introducción y Configuración inicial
+# 📅 Día 005 – Introducción y Configuración inicial
 
 ## 📌 Tema
 
@@ -8,7 +8,7 @@ Inicio del reto, definición de objetivos y configuración del entorno base.
 
 ## 📘 Descripción
 
-🌟 Día 02 del reto #100DíasDeCloud 🚀
+🌟 Día 05 del reto #100DíasDeCloud 🚀
 Hoy configuramos el repositorio y establecemos las instrucciones iniciales para seguir avanzando en el desafío. ¿Listo para dar el siguiente paso? 💪 #AprendeCloud #GoogleCloud #CloudComputing
 
 ---

@@ -9,7 +9,13 @@ Inicio del reto, definición de objetivos y configuración del entorno base.
 ## 📘 Descripción
 
 🌟 Día 01 del reto #100DíasDeCloud 🚀
-Hoy configuramos el repositorio y establecemos las instrucciones iniciales para seguir avanzando en el desafío. ¿Listo para dar el siguiente paso? 💪 #AprendeCloud #GoogleCloud #CloudComputing
+
+Hoy configuramos el repositorio en GitHub y establecemos los objetivos iniciales para seguir avanzando en el desafío.
+
+
+¿Listo para dar el siguiente paso? 💪
+
+#AprendeCloud #GoogleCloud #CloudComputing
 
 ---
 
@@ -31,7 +37,7 @@ Hoy configuramos el repositorio y establecemos las instrucciones iniciales para 
 ## 📚 Recursos útiles
 
 - [Sitio oficial de 100DaysOfCloud](https://www.100daysofcloud.com/)
-- [Repositorio base en GitHub](https://github.com/100DaysOfCloud/100DaysOfCloud)
+- [Repositorio de 100DaysOfCloud en GitHub](https://github.com/100DaysOfCloud/100DaysOfCloud)
 
 ---
 

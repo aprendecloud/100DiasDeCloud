@@ -6,10 +6,10 @@
 ## 📂 Estructura del Repositorio
 - `README.md`: Información general del reto y enlaces útiles.
 
-100DiasDeCloud/Dia_001/
-- `#100DiasDeCloud_Dia_001.md`: Ejemplo del Día 1 del reto.
+crs-100diasdecloud-aprendecloud/dia-001-crs-100diasdecloud-aprendecloud/
+- `dia-001-crs-100diasdecloud-aprendecloud/`: Ejemplo del Día 1 del reto.
 
-100DiasDeCloud/Templates/
+crs-100diasdecloud-aprendecloud/templates/
 - `000-DAY-ARTICLE-MICRO-TEMPLATE.md`: Plantilla para artículos cortos (1-2 párrafos).
 - `001-DAY-ARTICLE-SHORT-TEMPLATE.md`: Plantilla para artículos intermedios (3-4 párrafos).
 - `002-DAY-ARTICLE-LONG-TEMPLATE.md`: Plantilla para artículos largos (5+ párrafos).
@@ -19,14 +19,8 @@
 1. Selecciona la plantilla que mejor se adapte al contenido que deseas crear.
 2. Clona el repositorio y crea un nuevo archivo basado en la plantilla elegida.
 3. Sigue el formato de la plantilla y completa los campos requeridos.
-4. Envía tu contribución mediante un pull request.
+4. ¡Vamos con todo! 🦾
 
-
-## 🤝 Cómo Contribuir
-- Crea un fork del repositorio.
-- Realiza los cambios o añade tu artículo utilizando una de las plantillas.
-- Envia un pull request con una breve descripción del contenido.
-- Los revisores evaluarán tu aporte y lo integrarán al repositorio.
 
 
 ## 🌐 Enlaces Relevantes

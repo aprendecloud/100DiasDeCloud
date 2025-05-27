@@ -48,7 +48,7 @@ Hoy configuramos el repositorio en GitHub y establecemos los objetivos iniciales
 Repositorio creado y primer día documentado. ¡Vamos con todo!
 
 
-## ☁️ ¡Aprende, certifícate y lidera el cambio con IA Generativa!
+## ☁️ ¡Aprende, certifícate y lidera el cambio con Aprende.Cloud!
 
 ---
 

@@ -1,3 +1,5 @@
+![Logo de Aprende.Cloud](https://media.licdn.com/dms/image/v2/D4E0BAQEcS_NueMRdKg/company-logo_200_200/company-logo_200_200/0/1720507130557/aprende_cloud_logo?e=1753315200&v=beta&t=4h0PIMDcupaxj_IH6IkyNkzja5ElsqWlyCQuPppjVwY)
+
 # 📅 Día 001 – Introducción y Configuración inicial
 
 ## 📌 Tema
@@ -45,17 +47,10 @@ Hoy configuramos el repositorio en GitHub y establecemos los objetivos iniciales
 
 Repositorio creado y primer día documentado. ¡Vamos con todo!
 
----
 
-## 🤝 Conecta con nosotros
-Nicole Paine
-- [NicolePaine.com](https://www.nicolepaine.com)
-- [LinkedIn](https://www.linkedin.com/in/nicolepainem)
-- [GitHub](https://github.com/nicolepaine/)
-
-Nicolás Lecaros
-- [NicolasLecaros.com](https://www.nicolaslecaros.com)
-- [LinkedIn](https://www.linkedin.com/in/nicolaslecaros)
-- [GitHub](https://github.com/nicolaslecaros/)
+## ☁️ ¡Aprende, certifícate y lidera el cambio con IA Generativa!
 
 ---
+
+
+

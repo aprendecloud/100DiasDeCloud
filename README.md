@@ -1,4 +1,4 @@
-# 100DíasDeCloud - Aprende.Cloud 🌩️
+# #100DíasDeCloud - Aprende.Cloud 🌩️
 
 ## 🚀 Descripción del Reto
 100 días de aprendizaje continuo sobre Cloud Computing, incluyendo prácticas, artículos y contenido exclusivo en español. Durante este reto, explorarás desde los conceptos básicos hasta la integración Multicloud utilizando Google Cloud, AWS y Azure.
